@@ -1,0 +1,46 @@
+body {
+  font-family: "Philosopher", sans-serif;
+  background: rgba(44, 174, 186, 0.7);
+  color: #ffffff;
+}
+
+.Weather {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 24px;
+  /*background: linear-gradient(rgba(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)),    url("./images/pexels-arnie-chou-1229042.jpg") center/cover no-repeat;
+  */
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.Weather h1 {
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 29px;
+  margin: 20px 0 0 0;
+}
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+.Weather li {
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 29px;
+  list-style-type: none;
+}
+
+.Weather .temperature {
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 64px;
+}
+.Weather .unit {
+  font-weight: 400;
+  position: relative;
+  top: -30px;
+  color: red;
+}
