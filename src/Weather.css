@@ -9,8 +9,9 @@ body {
   padding: 15px;
   border-radius: 5px;
   font-size: 24px;
-  /*background: linear-gradient(rgba(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)),    url("./images/pexels-arnie-chou-1229042.jpg") center/cover no-repeat;
-  */
+  background: linear-gradient(rgba(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./images/pexels-arnie-chou-1229042.jpg") center/cover no-repeat;
+
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
