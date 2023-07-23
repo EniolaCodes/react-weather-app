@@ -33,7 +33,11 @@ body {
   line-height: 29px;
   list-style-type: none;
 }
-
+.Weather canvas {
+  margin-right: 5px;
+  margin-top: 15px;
+  display: inline-block;
+}
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
