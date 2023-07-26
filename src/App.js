@@ -7,9 +7,10 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity = "Lagos"/>
+        <Weather defaultCity="Lagos" />
         <footer>
-          This project was coded by {""}
+          https://react-weather-app-livid-mu.vercel.app/ This project was coded
+          by {""}
           <a
             href="https://www.linkedin.com/in/fatimah-adebimpe-441b10145"
             target="_blank"
