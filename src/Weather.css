@@ -1,44 +1,43 @@
 body {
-  font-family: "Philosopher", sans-serif;
-  color: #ffffff;
-  color: #e53f71;
+	font-family: "Philosopher", sans-serif;
+	color: black;
 }
 
 .Weather {
-  border: none;
-  background: #8b008b;
-  padding: 15px;
-  border-radius: 10px;
-  font-size: 24px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
+	border: none;
+	background: linear-gradient(to right, #ffffcc, #99ccff);
+	padding: 15px;
+	border-radius: 10px;
+	font-size: 24px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
 }
 .Weather h1 {
-  font-size: 24px;
-  font-weight: 100;
-  line-height: 29px;
-  margin: 20px 0 0 0;
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 29px;
+	margin: 20px 0 0 0;
 }
 .Weather ul {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 .Weather li {
-  font-size: 16px;
-  font-weight: 200;
-  line-height: 29px;
-  list-style-type: none;
+	font-size: 16px;
+	font-weight: 200;
+	line-height: 29px;
+	list-style-type: none;
 }
 
 .Weather .temperature {
-  font-weight: bold;
-  font-size: 64px;
-  line-height: 64px;
+	font-weight: bold;
+	font-size: 64px;
+	line-height: 64px;
 }
 .Weather .unit {
-  font-weight: 400;
-  position: relative;
-  top: -30px;
+	font-weight: 400;
+	position: relative;
+	top: -30px;
 }
